@@ -6,3 +6,4 @@ Steve has just graduated with his finance degree. His parents are his first clie
 The pupose of the project is to help Steve analyze a handful of green energy stocks in addition to DAQO stock.
 We need to analyse stock's daily volumes and returns for the year 2017 and 2018; and to automate the analysis using VBA scripts to provide a faster outputs.
 ## Results
+![allStocksAnalysis timer 2017](https://user-images.githubusercontent.com/42978221/141705668-dc59efaa-fd1d-41fe-a3ac-02b4aa41f7d4.png)
