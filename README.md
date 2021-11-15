@@ -1,4 +1,4 @@
-### Stock-Analysis
+# Stock-Analysis
 Stock analysis based on Daily Volumes and Yearly Returns
 ## Project Overview
 Steve has just graduated with his finance degree. His parents are his first clients. Steve's parents are passionate about green energy and they believe that as fusel fuels got used up there will be more and more reliance on alternative energy production. there are many forms of green energy to invest in including hydro electricity, wind, geothermal and bio energy. However, Steve's parents haven't done much research and decided to invest all their money into DAQO New Energy Corporation, which makes silicon wafers for solar panels. Since they have met at Dairy Queen and DAQO's ticker is "DQ", that was all the information they needed. 
@@ -14,6 +14,6 @@ We need to analyse stock's daily volumes and returns for the year 2017 and 2018.
 ![Refactored Analysis timer 2018](https://user-images.githubusercontent.com/42978221/141705706-a641159c-18e9-403b-a0e7-cc3d9b5bee05.png)
 As we can see the refactored code runs around 5 times faster than the original one.
 ## Summary
-# Advantages and Disadvantages of refactoring code in general.
+### Advantages and Disadvantages of refactoring code in general.
 
-# Advantages and Disadvantages of the original and refactored VBA script.
+### Advantages and Disadvantages of the original and refactored VBA script.
