@@ -7,3 +7,6 @@ The pupose of the project is to help Steve analyze a handful of green energy sto
 We need to analyse stock's daily volumes and returns for the year 2017 and 2018; and to automate the analysis using VBA scripts to provide a faster outputs.
 ## Results
 ![allStocksAnalysis timer 2017](https://user-images.githubusercontent.com/42978221/141705668-dc59efaa-fd1d-41fe-a3ac-02b4aa41f7d4.png)
+![Refactored Analysis timer 2017](https://user-images.githubusercontent.com/42978221/141705690-0f688f3a-c83f-4911-8237-e768487f4bac.png)
+![allStocksAnalysis timer 2018](https://user-images.githubusercontent.com/42978221/141705699-bb595f24-7184-4490-a035-6f7daf6dbd53.png)
+![Refactored Analysis timer 2018](https://user-images.githubusercontent.com/42978221/141705706-a641159c-18e9-403b-a0e7-cc3d9b5bee05.png)
